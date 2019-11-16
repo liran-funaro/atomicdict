@@ -27,7 +27,7 @@ setup(
     author_email="liran.funaro+atomicdict@gmail.com",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url="https://bitbucket.org/funaro/atomicdict",
+    url="https://github.com/liran-funaro/atomicdict",
     keywords='atomic dict lock-free wait-free transaction',
     license='GPL',
     classifiers=[
